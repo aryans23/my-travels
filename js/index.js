@@ -51,7 +51,12 @@ $(function () {
       // 'us-nh',
       // 'us-nj',
       'us-tx',
-      'us-ca'
+      'us-ca',
+      'us-az',
+      'us-co',
+      'us-ut',
+      'us-fl',
+      'us-wa'
     ];
 
     function getDrilldown(data, visited) {
