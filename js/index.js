@@ -49,14 +49,17 @@ $(function () {
       // 'us-ma',
       'us-nv',
       // 'us-nh',
-      // 'us-nj',
+      'us-nj',
       'us-tx',
       'us-ca',
       'us-az',
       'us-co',
       'us-ut',
       'us-fl',
-      'us-wa'
+      'us-wa',
+      'us-id',
+      'us-mo',
+      'us-wy'
     ];
 
     function getDrilldown(data, visited) {
