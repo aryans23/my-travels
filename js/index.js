@@ -58,7 +58,7 @@ $(function () {
       'us-fl',
       'us-wa',
       'us-id',
-      'us-mo',
+      'us-mt',
       'us-wy'
     ];
 
